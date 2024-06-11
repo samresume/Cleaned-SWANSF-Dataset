@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Preprocessed SWANSF
+message: >-
+  The paper related to this dataset is presently under
+  review.
+type: dataset
+authors:
+  - given-names: MohammadReza
+    family-names: EskandariNasab
+    email: reza.eskandarinasab@usu.edu
+    affiliation: Utah State University
+    orcid: 'https://orcid.org/0009-0004-0697-3716'
+  - given-names: Shah Muhammad
+    family-names: Hamdi
+    email: s.hamdi@usu.edu
+    affiliation: "Utah State University\t"
+  - given-names: Soukaina
+    family-names: Filali Boubrahimi
+    affiliation: Utah State University
+    email: soukaina.boubrahimi@usu.edu
+repository-code: 'https://github.com/samresume/Preprocessed-SWANSF'
+license: MIT
+version: v1.0.0
+date-released: '2024-06-10'
