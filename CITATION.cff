@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Preprocessed SWANSF
+title: Cleaned SWANSF Dataset
 message: >-
   The paper related to this dataset is presently under
   review.
@@ -21,7 +21,7 @@ authors:
     family-names: Filali Boubrahimi
     affiliation: Utah State University
     email: soukaina.boubrahimi@usu.edu
-repository-code: 'https://github.com/samresume/Preprocessed-SWANSF'
+repository-code: 'https://github.com/samresume/Cleaned-SWANSF-Dataset/'
 license: MIT
 version: v1.0.0
 date-released: '2024-06-10'
