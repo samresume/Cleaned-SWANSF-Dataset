@@ -21,7 +21,7 @@ authors:
     family-names: Filali Boubrahimi
     affiliation: Utah State University
     email: soukaina.boubrahimi@usu.edu
-repository-code: 'https://github.com/samresume/Cleaned-SWANSF-Dataset/'
+repository-code: 'https://github.com/samresume/Cleaned-SWANSF-Dataset'
 license: MIT
 version: v1.0.0
 date-released: '2024-06-10'
