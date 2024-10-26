@@ -74,7 +74,7 @@ The `y_train` files hold the labels for the samples, organized in a 1D vector:
 - `y_train[0][2]` corresponds to the label of the third Multivariate Time Series (MVTS) sample of partition 1, which can be 0 or 1, indicating the binary classification target.
 
 ### Copy Right
-Our paper detailing this preprocessed dataset has been published. Please cite it as follows:
+Our paper detailing this preprocessed dataset has been published. We kindly ask you to provide a citation to acknowledge our work. Thank you for your support!
 <p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
 
 ```
