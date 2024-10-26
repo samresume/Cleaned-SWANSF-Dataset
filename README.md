@@ -74,4 +74,19 @@ The `y_train` files hold the labels for the samples, organized in a 1D vector:
 - `y_train[0][2]` corresponds to the label of the third Multivariate Time Series (MVTS) sample of partition 1, which can be 0 or 1, indicating the binary classification target.
 
 ### Copy Right
-Our paper detailing this preprocessed dataset is currently under review. Please ensure to cite it appropriately once published.
+Our paper detailing this preprocessed dataset has been published. Please cite it as follows:
+<p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
+```bibtex
+@article{EskandariNasab_2024,
+    doi = {10.3847/1538-4365/ad7c4a},
+    url = {https://dx.doi.org/10.3847/1538-4365/ad7c4a},
+    year = {2024},
+    month = {oct},
+    publisher = {The American Astronomical Society},
+    volume = {275},
+    number = {1},
+    pages = {6},
+    author = {MohammadReza EskandariNasab and Shah Muhammad Hamdi and Soukaina Filali Boubrahimi},
+    title = {Impacts of Data Preprocessing and Sampling Techniques on Solar Flare Prediction from Multivariate Time Series Data of Photospheric Magnetic Field Parameters},
+    journal = {The Astrophysical Journal Supplement Series}
+}
