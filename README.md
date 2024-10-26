@@ -76,7 +76,7 @@ The `y_train` files hold the labels for the samples, organized in a 1D vector:
 ### Copy Right
 Our paper detailing this preprocessed dataset has been published. Please cite it as follows:
 <p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
-```bibtex
+```
 @article{EskandariNasab_2024,
     doi = {10.3847/1538-4365/ad7c4a},
     url = {https://dx.doi.org/10.3847/1538-4365/ad7c4a},
