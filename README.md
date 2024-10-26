@@ -90,3 +90,4 @@ Our paper detailing this preprocessed dataset has been published. Please cite it
     title = {Impacts of Data Preprocessing and Sampling Techniques on Solar Flare Prediction from Multivariate Time Series Data of Photospheric Magnetic Field Parameters},
     journal = {The Astrophysical Journal Supplement Series}
 }
+```
