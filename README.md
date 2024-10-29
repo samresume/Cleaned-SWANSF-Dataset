@@ -1,5 +1,5 @@
 
-# Preprocessed-SWANSF
+# Cleaned SWAN-SF Dataset
 
 ## Introduction
 The **SWAN-SF dataset** is now fully preprocessed, optimized, and ready for binary classification tasks. Our team is excited to release the enhanced version of the SWAN-SF dataset across all five partitions. This version benefits from our **FPCKNN imputation** technique, the **elimination of Class C samples** to address class overlap issues, and the implementation of **TimeGAN**, **Tomek Links**, and **Random Under Sampling** as over- and under-sampling strategies. With **LSBZM normalization** applied, our optimized dataset empowers researchers to develop more precise classifiers by focusing on analysis rather than preprocessing steps, aiming to improve the TSS score significantly.
@@ -73,7 +73,7 @@ The order of the attributes is as follows:
 The `y_train` files hold the labels for the samples, organized in a 1D vector:
 - `y_train[0][2]` corresponds to the label of the third Multivariate Time Series (MVTS) sample of partition 1, which can be 0 or 1, indicating the binary classification target.
 
-### Copy Right
+### How To Cite
 Our paper detailing this preprocessed dataset has been published. We kindly ask you to provide a citation to acknowledge our work. Thank you for your support!
 <p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
 
